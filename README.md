@@ -38,4 +38,4 @@ I'm a **Computer Science Student** passionate about advancing **science** and **
 
 ---
 
-Contact me if you feeling academic in your pants
+**Contact me if you feeling academic in your pants**. No, really, please do.
