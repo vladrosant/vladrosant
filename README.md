@@ -1,6 +1,6 @@
 # Hello, friend! 🤖
 
-I'm a **Computer Science Student** passionate about advancing **science** and **technology** through hardwork and teamwork. I’m currently focused on expanding my knowledge in areas like **image processing** and **artificial intelligence** for space exploration related algorithms.
+I'm a **Computer Science Student** who loves astronomy a tad much. I’m currently focused on expanding my knowledge in areas like **image processing** and **artificial intelligence** for space exploration related algorithms. Also interested in software development.
 
 ---
 
@@ -9,7 +9,7 @@ I'm a **Computer Science Student** passionate about advancing **science** and **
 - 🎓 CS Student with a keen interest in **scientific advancements** and **technology** that shapes the future.
 - 💡 Currently exploring **AI applications** in space safety and **image processing** techniques.
 - 🛠️ Skilled in **Python**, **C++**, and **JavaScript**.
-- 📚 Constant learner, enthusiastic about the latest **scientific researches**.
+- 📚 Always catching up with the latest **[scientific news](https://sciencex.com/)**.
 
 ---
 
