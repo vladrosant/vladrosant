@@ -6,7 +6,7 @@ I'm a **Computer Science** student who loves astronomy a tad much. I’m current
 
 ### 🚀 About Me
 
-- 🍎 Used to be a physics grad student but pivoted to CS
+- 🍎 Used to major in physics but pivoted to CS.
 - 💡 Currently exploring **AI applications** in space safety and **image processing** techniques.
 - 🛠️ Currently working at a hospital. No, I didn't expect that.
 - 📚 Always catching up with the latest **[scientific news](https://sciencex.com/)**.
