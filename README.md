@@ -1,14 +1,14 @@
 # Hello, friend! 🤖
 
-I'm a **Computer Science Student** who loves astronomy a tad much. I’m currently focused on expanding my knowledge in areas like **image processing** and **artificial intelligence** for space exploration related algorithms. Also interested in software development.
+I'm a **Computer Science** student who loves astronomy a tad much. I’m currently focused on autonomous spacecraft related algorithms for space exploration. If there's an exciting paper about something I'm interested, I'll probably try to code something about it.
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 CS Student with a keen interest in **scientific advancements** and **technology** that shapes the future.
+- 🍎 Used to be a physics grad student but pivoted to CS
 - 💡 Currently exploring **AI applications** in space safety and **image processing** techniques.
-- 🛠️ Skilled in **Python**, **C++**, and **JavaScript**.
+- 🛠️ Currently working at a hospital. No, I didn't expect that.
 - 📚 Always catching up with the latest **[scientific news](https://sciencex.com/)**.
 
 ---
@@ -22,19 +22,13 @@ I'm a **Computer Science Student** who loves astronomy a tad much. I’m current
 ### 🌱 What I’m Learning
 
 - Deep dive into **OpenCV** and **TensorFlow** for practical AI and image processing tasks.
-- Some other shizz
+- Going wherever the research takes me.
 
 ---
 
 ### 📫 The job website
 
 - **[LinkedIn](https://linkedin.com/in/pedrohfsantana)** 
-
----
-
-### 📊 GitHub Stats
-
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vladrosant&show_icons=true&theme=radical)
 
 ---
 
