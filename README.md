@@ -15,19 +15,18 @@ I'm a **Computer Science Student** passionate about advancing **science** and **
 
 ### 🔭 Current Projects
 
-- **[Autonomous Spacecraft Safety](https://github.com/username/autonomous-spacecraft-safety)**: Developing edge detection algorithms to ensure spacecraft safety using image processing methods.
+- **[Autonomous Spacecraft Safety](https://github.com/username/autonomous-spacecraft-safety)**: Developing edge detection algorithms to ensure spacecraft safety using image processing methods, convolutional neural networks and reinforcement learning.
 
 ---
 
 ### 🌱 What I’m Learning
 
-- Advanced **Machine Learning** techniques for scientific applications.
-- **Data Visualization** to communicate complex ideas through compelling visuals.
 - Deep dive into **OpenCV** and **TensorFlow** for practical AI and image processing tasks.
+- Some other shizz
 
 ---
 
-### 📫 Connect with Me
+### 📫 The job website
 
 - **[LinkedIn](https://linkedin.com/in/pedrohfsantana)** 
 
