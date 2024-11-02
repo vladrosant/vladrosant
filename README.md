@@ -15,7 +15,7 @@ I'm a **Computer Science** student who loves astronomy a tad much. I’m current
 
 ### 🔭 Current Projects
 
-- **[Autonomous Spacecraft Safety](https://github.com/username/autonomous-spacecraft-safety)**: Developing edge detection algorithms to ensure spacecraft safety using image processing methods, convolutional neural networks and reinforcement learning.
+- **[Autonomous Spacecraft Safety]([https://github.com/username/autonomous-spacecraft-safety](https://github.com/vladrosant/autonomous-spacecraft-safety))**: Developing edge detection algorithms to ensure spacecraft safety using image processing methods, convolutional neural networks and reinforcement learning.
 
 ---
 
