@@ -1,10 +1,10 @@
-# Hello, friend! 🤖
+# hello, friend! 🤖
 
-I'm Pedro, a computer scientist who loves astronomy. If there's an exciting paper about something I'm interested in, I'll probably try to code something about it.
+I'm pedro, a computer scientist who loves astronomy. If there's an exciting paper about something I'm interested in, I'll probably try to code something about it.
 
-### 📫 The job website
+### 📫 the job website
 
-- **[LinkedIn](https://linkedin.com/in/pedrohfsantana)** 
+- **[linkedin](https://linkedin.com/in/pedrohfsantana)** 
 
 ---
 
