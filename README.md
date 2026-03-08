@@ -4,7 +4,7 @@ I'm pedro, a computer scientist who loves astronomy. If there's an exciting pape
 
 ### go projects
 - [m8s](https://github.com/vladrosant/m8s) - a simplified container orchestrator
-- [poopy](https://github.com/vladrosant/poopy) - expense tracker
+- [poopy](https://github.com/vladrosant/poopy) - CLI expense tracker
 
 ### python projects
 - [ass](https://github.com/vladrosant/ass) - autonomous spacecraft navigational system 
