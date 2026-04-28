@@ -2,7 +2,7 @@
 
 I'm pedro, a computer scientist who loves astronomy. If there's an exciting paper about something I'm interested in, I'll probably try to code something about it.
 
-## ruby
+### ruby
 - [communa](https://github.com/vladrosant/communa) - community impact tracker
 
 ### go
