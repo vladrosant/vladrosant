@@ -10,6 +10,7 @@ I'm pedro, a computer scientist who loves astronomy. If there's an exciting pape
 - [poopy](https://github.com/vladrosant/poopy) - CLI expense tracker
 
 ### python
+- [dbt-mcp-server](https://github.com/vladrosant/dbt-mcp-server) - MCP server that lets claude answer questions about your dbt project
 - [ass](https://github.com/vladrosant/ass) - autonomous spacecraft navigational system 
 
 ### the job website
@@ -18,4 +19,4 @@ I'm pedro, a computer scientist who loves astronomy. If there's an exciting pape
 
 ---
 
-**Contact me if you feeling academic in your pants**. No, really, please do.
+**contact me if you feeling academic in your pants**. no, really, please do.
